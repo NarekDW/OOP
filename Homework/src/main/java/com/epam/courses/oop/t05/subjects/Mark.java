@@ -1,7 +1,5 @@
 package com.epam.courses.oop.t05.subjects;
 
-import javax.print.attribute.standard.MediaSize;
-
 /**
  * Created by Narek on 20.01.2017.
  */
